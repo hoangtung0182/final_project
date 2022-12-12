@@ -1,0 +1,26 @@
+﻿id,name,c1,c2,c3,story,nav,win,lose,stranger,monster
+1,Earth,2,3,4,"You start at Earth, Get ready for the adventure","Press 2 to go to the Moon, 3 to go to Mars, 4 to go to Mecury",0,0,0,0
+2,Moon,5,6,7,"You have arrived to the Moon, look at Earth from here! Everything so beautiful","Press 5 to go to the Sun, 6 to go to Jupiter, 7 to go to Saturn",0,0,1,0
+3,Mars,8,9,1,"You are the first person in the world on Mars, let's take some self-face and post on social media","From Mars press 8 to go to Venus, 9 to go to Uranus",0,0,1,0
+4,Mercury,10,11,1,You are on Mercury!,"Press 10 to go to XVI planet, 11 to go to Pluto,  and to come back to Earth press 1",0,0,1,0
+5,Sun,,,,It is too hot! You are die!,,0,1,0,0
+6,Jupiter,12,,,Welcome to Jupiter! ,Press 12 to go to Dreaming Galaxy,0,0,1,0
+7,Saturn,12,8,,"You just got into Saturn, take a look around!","Press 12 to go to Dreaming Galaxy, 8 to go to Venus",0,0,1,0
+8,Venus,13,12,3,You are here in Venus! Let prepare for new challenges,"Press 13 to go to Giant Planet, 12 to go to Dreaming Galaxy and 3 to go back to Mars",0,0,1,0
+9,Uranus,14,,,You are in Uranus. Are you ready to go to Comic?,Press 14 to go to Comic,0,0,1,0
+10,XVI,15,4,,You are on a planet called XVI.,"Press 15 to go to XVII, 4 to go back to Mercury",0,0,1,0
+11,Pluto,16,4,,Pluto planet welcome you!,"Press 16 to go to Cat planet, 4 to go back to Mercury",0,0,1,0
+12,Dreaming Galaxy,17,,,You are entering Dreaming Galaxy. Try to not fall as sleep,Press 17 to go to Golden Planet,0,0,1,0
+13,Giant Planet,17,18,,You are on Giant Planet. Don't make any noise otherwise they will wake up,"Press 17 to go to Golden Planet, 18 to go to Health Planet",0,0,1,0
+14,Comic,17,18,19,"You get on a Comic, You can fly with a light speed!","Press 17 to go to Golden Planet, 18 to go to Health Planet, 19 to go to Magic Planet",0,0,1,0
+15,XVII,22,,,You are on XVII and Do you know what is waiting you?,Press 22 to go to Alien 2,0,0,1,0
+16,Cat Planet,19,11,,You are so lucky you have arrived on Cat Planet. Look at those cats they are so cute!,"Press 19 go to Magic Planet, and 11 to go back to Pluto",0,0,1,0
+17,Golden Planet,20,21,,You gotta be rich when you can get here on Golden Planet. Look around it is real gold,"Press 20 to go to Black Hole, 21 to go to Alien 1",0,0,1,0
+18,Health Planet,22,,,"If you feel tired. Finally, you got to the right destination. It is Health Planet, the water here will help you to recover after a long fly.",Press 22 to go to Alien 2,0,0,1,0
+19,Magic Planet,22,23,,Welcome to Magic Planet! Let guess where you are going to next,"Press 22 to go to Alien 2, 23 to go to Death Planet",0,0,1,0
+20,Black Hole,,,,Nothing can escape from a Black Hole even light. You are die!,,0,1,0,0
+21,Alien 1,25,,,You need to fight to win or you win die!,,0,0,0,1
+22,Alien 2 ,25,1,,You need to fight to win or you have to go back to Earth,,0,0,0,1
+23,Death Planet,22,24,,Welcome to Death Planet. Are you going to Reverse?,"Press 22 back to Alien 2, 24 to enter Reverse",0,0,1,0
+24,Reverse,1,,,You are in Reverse. Check your items!,Press 1 to start again!,0,0,0,0
+25,Infinity Planet,,,,You win! You are in Infinity Planet where you have a power that you can get whatever you want!,,1,0,0,0
